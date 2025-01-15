@@ -5,7 +5,7 @@
   _Shenyang, China, SUPERVISOR: Prof. Lei Zhang_<br>
   THESIS: Deep Learning-based Visual SLAM
 
-- **2011.09 - 2015.07**, B.S. in Robotics, Nanjing Institute of Technology<br>
+- **2018.09 - 2022.07**, B.S. in Robotics, Nanjing Institute of Technology<br>
   _Nanjing, China, SUPERVISOR: Assoc. Prof. Dr. Yunrui Bi_<br>
   THESIS: Automated Parking System Based on Vision SLAM
 
