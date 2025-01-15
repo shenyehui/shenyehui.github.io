@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Xieyuanli Chen"
-description              : "Associate Professor at NUDT"
-repository               : "Chen-Xieyuanli/Chen-Xieyuanli.github.io"
+title                    : "Yehui Shen"
+description              : "M.S student at NEU"
+repository               : "shenyehui/shenyehui.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -22,15 +22,15 @@ baidu_site_verification  : code-ZxFK3f4pfb
     
 # Site Author
 author:
-  name             : "Xieyuanli Chen"
-  avatar           : "images/my-photo-new.png"
-  bio              : "陈谢沅澧"
+  name             : "Yehui Shen"
+  avatar           : "images/my-photo.png"
+  bio              : "沈业辉"
   location         : "China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=DvrngV4AAAAJ"
-  email            : "xieyuanli.chen@hotmail.com"
-  researchgate     : "https://www.researchgate.net/profile/Xieyuanli-Chen"
+  googlescholar    : #"https://scholar.google.com/citations?user=DvrngV4AAAAJ"
+  email            : "shenyehui2000@163.com"
+  researchgate     : #"https://www.researchgate.net/profile/Xieyuanli-Chen"
   uri              :
   bitbucket        :
   codepen          :
@@ -38,7 +38,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Chen-Xieyuanli"
+  github           : "shenyehui"
   google_plus      :
   keybase          :
   instagram        :
