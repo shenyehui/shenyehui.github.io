@@ -7,7 +7,7 @@
 
 - **2018.09 - 2022.07**, B.S. in Robotics, Nanjing Institute of Technology<br>
   _Nanjing, China, SUPERVISOR: Assoc. Prof. Dr. Yunrui Bi_<br>
-  THESIS: Automated Parking System Based on Vision SLAM
+  THESIS: Automated Parking System Based on Visual SLAM
 
 
 <div style="float: left;">
