@@ -1,2 +1,2 @@
 # shenyehui.github.io
-my website
+🤖 Welcome to my website
